@@ -39,6 +39,7 @@
 #resultado{
     font-size: 25px;
     background-color:white;
+    overflow: hidden;
     color: black;
     width: 225px;
     height: 30px;
