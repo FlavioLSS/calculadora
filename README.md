@@ -1,1 +1,1 @@
-Teste Meu Proeto: https://thewitcherproject.netlify.app
+Teste Meu Projeto: https://thewitcherproject.netlify.app
